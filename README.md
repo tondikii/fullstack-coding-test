@@ -1,6 +1,6 @@
 # Fullstack Coding Test
 
-Instruction:
+Instructions:
 - Fork this repository.
 - Implement each solution on a folder by the task number.
 - Invite our email to become collaborator when you finish your work.
