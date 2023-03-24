@@ -1,5 +1,10 @@
 # Fullstack Coding Test
 
+Instruction:
+- Fork this repository.
+- Implement each solution on a folder by the task number.
+- Invite our email to become collaborator when you finish your work.
+
 ## General Programming
 
 **1**. Implement a program to find intersection array of two array A and B, as example below:
