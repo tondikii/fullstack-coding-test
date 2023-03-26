@@ -1,0 +1,6 @@
+The complexity of the code snippet above can be calculated by multiplying the notations 
+for each line. Because there are nested repetitions, the operation used is addition. 
+This means that the result of the nested repetition is: O(n) * O(n) = O(n2). 
+So for the two commands above the result is O(1) + O(1) = O(2).When combined the result 
+is O(n2) O(2). However, usually for the type of code above, it is sufficiently denoted 
+by O(n2) _ O(2)
